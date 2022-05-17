@@ -9,6 +9,7 @@ body{
     font-family: 'IM Fell English SC', serif;
 font-size:  15px; 
 line-height: 25px;
+background-color: rgb(140, 236, 236);
 }
 header{
     /* background-color: rgb(75, 75, 233); */
@@ -20,14 +21,15 @@ header h1{
     font-weight: 1350;
     display:inline;
     position: relative;
-    bottom: 150px;
+    bottom: 0px;
      margin-left: 50%;
      /* margin-bottom: 1150%; */
     /* text-align: center; */
 }
 nav{
-    background-color: rgb(221, 221, 230);
-    margin-bottom: 15px;
+    background-color: rgb(10, 10, 236);
+    margin-bottom: 150px;
+    margin-top: 0;
 
 }
 nav ul {
@@ -40,7 +42,7 @@ nav ul li{
     flex-grow: 1;
 }
 nav ul li a {
-color: rgb(125, 94, 238);
+color: rgb(246, 246, 248);
 text-decoration: none;
 /* padding: 3px 6px; */
 display: block;
