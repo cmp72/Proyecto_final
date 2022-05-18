@@ -55,8 +55,61 @@ nav ul li a:hover{
 nav ul li a.active{
     background-color: rgb(195, 141, 241);
 }
+footer{
+    background-color: gray;
+    clear: both;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 30px;
+}
+.contenedor{
+    max-width: 100%;
+    margin: 0 auto;
+}
+h2{
+    font-size: 20px;
+}
+/* comienza inicio */
+.inicioimg{
+    width: 100%;
+    margin-top: 0;
+
+}
+.portada{
+    width: 60%;
+    padding-left: 25px;
+    box-sizing: border-box;
+    /* background: red; */
+    margin-top: 0;
+}
+.portada p, .datos p{
+    color: blue;
+    font-size: 15px;
+}
+.datos{
+    /* background: yellow; */
+    width: 40%;
+    margin-block-end: 10px;
+    border: 2px solid #150324;
+    box-shadow: -11px 10px 5px 3px rgba(0,0,0,0.33);
 
 
+}
+.columnas{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+/* Cierra inicio */
+
+/* comienzo pagina ciudad de girona */
+
+
+
+
+/* fin página ciudad de girona */
 
 
 
