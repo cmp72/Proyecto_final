@@ -20,7 +20,7 @@ background-color: rgb(140, 236, 236);
 header{
     width: 100%;
     height: 10%;
-     background-color: rgb(245, 16, 16); 
+     background-color: rgb(165, 211, 26); 
     /* padding: 16px 50px; */
     margin-top: 0px;
     display: inline-block;
@@ -40,7 +40,7 @@ header{
 
 
 nav{
-    background-color: rgb(245, 16, 16);
+    background-color: rgb(165, 211, 26); 
     /* margin-top: 10px; */
     /* position: fixed; */
     /* display: inline-block; */
@@ -124,6 +124,11 @@ h2{
 .imgGirona{
     width: 250px;
     height: 200px;
+}
+ .museo{
+    border-radius: 176px 176px 176px 176px;
+    border-radius: 176px 16px 135px 18px;
+    border: 31px solid #50ffa3;
 }
 .girona{
     /* display:inline-block; */
